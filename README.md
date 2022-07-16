@@ -1,0 +1,4 @@
+MSSQL_USER: tester
+MSSQL_PASSWORD: My@Super@Secret
+MSSQL_DB: testdb
+PORT: 1433
